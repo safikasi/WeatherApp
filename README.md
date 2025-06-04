@@ -16,6 +16,9 @@ https://github.com/user-attachments/assets/70817892-7e30-49b5-9e17-6b6faa3beb6b
 🌟 What is WeatherWise?
 WeatherWise is a sleek, modern weather application built to provide users with up-to-the-minute weather data in a visually appealing and intuitive interface. Whether you're planning your day or preparing for a storm, WeatherWise keeps you informed with precision and style.
 
+![weatherpic](https://github.com/user-attachments/assets/7449d83b-b92b-4a5c-a92f-a1862a776ed0)
+
+
 🔍 Key Features
 ✅ Live Weather Updates
 
