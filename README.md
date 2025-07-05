@@ -1,91 +1,125 @@
-☀️🌦️ WeatherWise — Your Personal Weather Companion 🌧️🌪️
-Stay ahead of the weather with real-time updates and stunning visuals! 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-🎥 Video Demo
-Here’s a quick walkthrough of the app in action:
+<h1>☀️🌦️ WeatherWise — Your Personal Weather Companion 🌧️🌪️</h1>
+<p>Stay ahead of the weather with real-time updates and stunning visuals!</p>
 
+<hr>
 
+<h2>🎥 Video Demo</h2>
+<p>Here’s a quick walkthrough of the app in action:</p>
+<p><a href="https://github.com/user-attachments/assets/70817892-7e30-49b5-9e17-6b6faa3beb6b" target="_blank">📹 Watch Demo Video</a></p>
+<p>💡 <strong>Tip:</strong> Turn on sound to enjoy the subtle UI effects!</p>
 
-https://github.com/user-attachments/assets/70817892-7e30-49b5-9e17-6b6faa3beb6b
+<hr>
 
+<h2>🌟 What is WeatherWise?</h2>
+<p><strong>WeatherWise</strong> is a sleek, modern weather application built to provide users with up-to-the-minute weather data in a visually appealing and intuitive interface. Whether you're planning your day or preparing for a storm, WeatherWise keeps you informed with precision and style.</p>
 
+<p><img src="https://github.com/user-attachments/assets/7449d83b-b92b-4a5c-a92f-a1862a776ed0" alt="WeatherWise Screenshot" width="600"></p>
 
-💡 Tip: Turn on sound to enjoy the subtle UI effects! 
+<hr>
 
+<h2>🔍 Key Features</h2>
+<ul>
+<li>✅ <strong>Live Weather Updates</strong>
+  <ul>
+    <li>Current temperature (Celsius &amp; Fahrenheit)</li>
+    <li>Real-time weather conditions (Clear, Rain, Cloudy, etc.)</li>
+  </ul>
+</li>
+<li>✅ <strong>Hourly Forecast</strong>
+  <ul>
+    <li>Hour-by-hour forecast for the next 24 hours</li>
+    <li>Visual icons for each condition</li>
+  </ul>
+</li>
+<li>✅ <strong>Detailed Weather Info</strong>
+  <ul>
+    <li>Humidity, Wind Speed, UV Index, and Pressure</li>
+    <li>Sunrise &amp; Sunset times</li>
+  </ul>
+</li>
+<li>✅ <strong>Dark Mode Support</strong>
+  <ul>
+    <li>Toggle between light and dark themes for optimal viewing comfort</li>
+  </ul>
+</li>
+<li>✅ <strong>Smooth Loading Experience</strong>
+  <ul>
+    <li>Beautiful loading animation while fetching data</li>
+  </ul>
+</li>
+</ul>
 
-🌟 What is WeatherWise?
-WeatherWise is a sleek, modern weather application built to provide users with up-to-the-minute weather data in a visually appealing and intuitive interface. Whether you're planning your day or preparing for a storm, WeatherWise keeps you informed with precision and style.
+<hr>
 
-![weatherpic](https://github.com/user-attachments/assets/7449d83b-b92b-4a5c-a92f-a1862a776ed0)
+<h2>🛠️ Tech Stack</h2>
+<ul>
+<li><strong>Frontend</strong>: React Native</li>
+<li><strong>Backend/API</strong>: OpenWeatherMap API</li>
+<li><strong>UI Library</strong>: React Native Paper / Material UI</li>
+<li><strong>State Management</strong>: React Context API</li>
+<li><strong>Tools</strong>: Expo CLI, Git, GitHub</li>
+</ul>
 
+<hr>
 
-🔍 Key Features
-✅ Live Weather Updates
+<h2>📦 Installation Guide</h2>
 
-Current temperature (Celsius & Fahrenheit)
-Real-time weather conditions (Clear, Rain, Cloudy, etc.)
-✅ Hourly Forecast
+<ol>
+<li>Clone the repository:<br>
+<code>git clone https://github.com/safikasi/weatherapp</code></li>
 
-Hour-by-hour forecast for the next 24 hours
-Visual icons for each condition
-✅ Detailed Weather Info
+<li>Navigate into the directory:<br>
+<code>cd weatherapp</code></li>
 
-Humidity, Wind Speed, UV Index, and Pressure
-Sunrise & Sunset times
-✅ Dark Mode Support
+<li>Install dependencies:<br>
+<code>npm install</code></li>
 
-Toggle between light and dark themes for optimal viewing comfort
-✅ Smooth Loading Experience
+<li>Run the app:<br>
+<code>npx expo start</code></li>
+</ol>
 
-Beautiful loading animation while fetching data
-🛠️ Tech Stack
-Frontend
-React Native
-Backend/API
-OpenWeatherMap API
-UI Library
-React Native Paper / Material UI
-State Mgmt
-React Context API
-Tools
-Expo CLI, Git, GitHub
-
-📦 Installation Guide
-
-Clone the repository
-git clone https://github.com/safikasi/weatherapp
-
-Navigate into the directory
-cd weatherapp
-
-Install dependencies
-npm install
-
-Run the app
-npx expo start
-
-Or use:
+<p>Or use:</p>
+<pre>
 npm run android
 # or
 npm run ios
+</pre>
 
-✨ Enjoy the weather magic!
-🤝 Contributing
-Contributions are always welcome! Here’s how you can help improve this project:
+<p>✨ Enjoy the weather magic!</p>
 
-Fork the repo.
-Create a new branch (git checkout -b feature/amazing-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/amazing-feature).
-Open a pull request.
-Let’s build something awesome together! 🙌
+<hr>
 
-📄 License
-This project is licensed under the MIT License . For more information, see the LICENSE file.
+<h2>🤝 Contributing</h2>
+<p>Contributions are always welcome! Here’s how you can help improve this project:</p>
+<ol>
+<li>Fork the repo.</li>
+<li>Create a new branch:<br><code>git checkout -b feature/amazing-feature</code></li>
+<li>Commit your changes:<br><code>git commit -m 'Add some feature'</code></li>
+<li>Push to the branch:<br><code>git push origin feature/amazing-feature</code></li>
+<li>Open a pull request.</li>
+</ol>
+<p>Let’s build something awesome together! 🙌</p>
 
-🎉 Final Thoughts
-WeatherWise is more than just an app — it's a blend of functionality, design, and performance. With every line of code, we aimed to make weather forecasting not only informative but also enjoyable.
+<hr>
 
-So whether you're heading out for work, play, or adventure — let WeatherWise guide your way! 🌈
+<h2>📄 License</h2>
+<p>This project is licensed under the <strong>MIT License</strong>. For more information, see the LICENSE file.</p>
 
-✨ Built with ❤️ by Safwan Khan Kasi
+<hr>
+
+<h2>🎉 Final Thoughts</h2>
+<p><strong>WeatherWise</strong> is more than just an app — it's a blend of functionality, design, and performance. With every line of code, we aimed to make weather forecasting not only informative but also enjoyable.</p>
+<p>So whether you're heading out for work, play, or adventure — let WeatherWise guide your way! 🌈</p>
+
+<p>✨ Built with ❤️ by <strong>Safwan Khan Kasi</strong></p>
+
+</body>
+</html>
